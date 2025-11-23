@@ -1,0 +1,3 @@
+Company: VALECaller User ID: hpsm Name: HPSM Integration Business Phone: Carrier: Mobile Phone: E-mail: vale-default-user@vale.nomail.com Work shift: Location: Configuration Item: USAZU1VALEAS279.valenet.valeglobal.net Affected CIs: USAZU1VALEAS279.valenet.valeglobal.net Service: Service Offering: Category: Inquiry / HelpSubcategory: User GuidanceDam: Reason: VMS Remediation – RFC # RFC: CHG1295861 - 
+Hostname: USAZU1VALEAS279.valenet.valeglobal.net - Domain:valenet.valeglobal.net - IP:10.44.32.47   - Security Zone:IT_BRAZIL_NEW
+Credential: domain user s-ad-vscanmb - Server Function / Application: RPA Center PROD

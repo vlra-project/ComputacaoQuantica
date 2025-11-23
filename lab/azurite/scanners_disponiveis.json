@@ -1,0 +1,571 @@
+[
+    {
+        "id": "AUTO-ROUTED",
+        "name": "Auto-Select",
+        "type": "pool",
+        "network_name": "",
+        "value": "AUTO-ROUTED",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "00000000-0000-0000-0000-00000000000000000000000000001",
+        "name": "Brazil Cloud Scanners",
+        "type": "local",
+        "network_name": "VALE_NTW_EXTERNAL_PERIMETER",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "5dfb0812-f6db-4792-8003-b963ce08dd19",
+        "name": "AP Singapore Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "11c698b6-a041-474c-a249-6bfca50d4a53",
+        "name": "AP Sydney Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "0ade77a9-7986-4229-abe8-082a90fbf987",
+        "name": "AP Tokyo Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "0daa30d6-a9cd-4aed-93b3-f23ee8d61f52",
+        "name": "APAC Cloud Scanners",
+        "type": "local",
+        "network_name": "VALE_NTW_EXTERNAL_PERIMETER",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "5897b1e3-3ad3-4656-8139-b355f34e92ba",
+        "name": "CA Central Cloud Scanners",
+        "type": "local",
+        "network_name": "VALE_NTW_EXTERNAL_PERIMETER",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "0215fe95-4db3-478c-9273-4b6d98e71115",
+        "name": "EMEA Cloud Scanners",
+        "type": "local",
+        "network_name": "VALE_NTW_EXTERNAL_PERIMETER",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "8f26d144-f024-45e5-9a4d-e1835faeb692",
+        "name": "EU Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "756e51d0-311a-4563-8e3b-d02b813091d6",
+        "name": "EU Frankfurt Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "aa0c60c2-53bd-467d-9d5e-bd71bd146aca",
+        "name": "India Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "bfd18315-7302-4fe2-a3d3-685ca98eb544",
+        "name": "UAE Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "20899429-7df0-4f2d-aca1-008fab072f1d",
+        "name": "UK Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "7fd7fe18-5aed-498a-8aca-5d9abaa10a44",
+        "name": "UK London Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "201e3c9c-4aa1-4359-91a0-1690d3e87cbe",
+        "name": "US Cloud Scanners",
+        "type": "local",
+        "network_name": "VALE_NTW_EXTERNAL_PERIMETER",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "91c67cc3-2fcf-4b5f-9fde-e1d95585a32b",
+        "name": "US East Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "67c8255a-119e-41ed-8914-e97e663cd788",
+        "name": "US West Cloud Scanners",
+        "type": "local",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "d2d9684c-9a83-43ff-9edb-fc6349475fc3",
+        "name": "All_IT_Scanners",
+        "type": "pool",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "7f1ddd02-6378-4a63-8870-5d4938a6f43d",
+        "name": "Americas_IT_Scanners",
+        "type": "pool",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "47540975-11ec-4825-9bbc-493b3a0ab521",
+        "name": "APJ_IT_Scanners",
+        "type": "pool",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "d24882ef-e61b-4518-a834-2342fea0ab82",
+        "name": "Brazil_IT_Scanners",
+        "type": "pool",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "5cd93a9e-3ab5-40d3-861d-53bf44254c18",
+        "name": "Canada_IT_Scanners",
+        "type": "pool",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "6b56955c-bb95-4206-9909-6a11f3180d5d",
+        "name": "INTERNET_DMZ",
+        "type": "managed",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "83d6b4db-3214-4e2b-a423-81544441d952",
+        "name": "INTERNET_DMZ_2",
+        "type": "managed",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "54826839-0066-4c33-9a04-e6c90945bf4c",
+        "name": "IT_BRAZIL_NEW",
+        "type": "managed",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "421d9985-3928-4e17-80e0-7f028c13921e",
+        "name": "IT_CANADA1_NEW",
+        "type": "managed",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "22dc9060-e137-4af2-8941-3147a47aacb8",
+        "name": "IT_CANADA2_NEW",
+        "type": "managed",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "63edd25b-d570-421b-834e-507507031489",
+        "name": "IT_MY_IDMZ_2.0",
+        "type": "managed",
+        "network_name": "VALE_NTW_IT_MY_IDMZ_2.0",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "d07a8621-a4dc-4718-948f-e9a8b0cc8bc2",
+        "name": "IT_OM_IDMZ_2.0",
+        "type": "managed",
+        "network_name": "VALE_NTW_IT_OM_IDMZ_2.0",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "3cb40b7b-096e-4887-a1fd-cc1030017580",
+        "name": "IT_SINGAPORE_NEW",
+        "type": "managed",
+        "network_name": "Default",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "5c51f377-cf94-4c45-9f3a-6374ec782394",
+        "name": "IT_VALEINDUSTRIAL_BRAZIL",
+        "type": "managed",
+        "network_name": "VALE_NTW_IT_VALEINDUSTRIAL",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "615d3c0c-3fff-42a7-864c-db4cd5f23557",
+        "name": "IT_VALEINDUSTRIAL_CANADA",
+        "type": "managed",
+        "network_name": "VALE_NTW_IT_VALEINDUSTRIAL",
+        "linked": true,
+        "status": "off"
+    },
+    {
+        "id": "3fced428-60f0-482c-9446-462f6ca94fc6",
+        "name": "IT_VIX_PCNDMZ",
+        "type": "managed",
+        "network_name": "VALE_NTW_IT_VIX_PCNDMZ",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "eaf73d91-cc83-46b2-b839-e8a610d2f519",
+        "name": "OT_BTM01",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_BTM01",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "9e43596d-b21d-40f3-be7f-531b7f37b503",
+        "name": "OT_CA_GARSON",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_CA_GARSON",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "f264528d-cc61-4ca7-98ee-e32d26319810",
+        "name": "OT_CA_SOUTH_MINE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_CA_SOUTH_MINE",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "c84bb563-75db-4007-b1ba-542c7bee0eb3",
+        "name": "OT_CA_VBME",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_CA_VBME",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "afc8fc35-ef2d-4c56-a461-5f041a2328b6",
+        "name": "OT_CKS_GEOTECNIA",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_CKS_GEOTECNIA",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "578fe53b-430d-4814-b51d-77bde2c6ce35",
+        "name": "OT_CKS_MINE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_CKS_MINE",
+        "linked": true,
+        "status": "off"
+    },
+    {
+        "id": "0f8d9cc7-1821-4189-884a-7564b981970b",
+        "name": "OT_CKS_PLANT1",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_CKS_PLANT1",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "7415026f-0330-4c87-98c5-104879669800",
+        "name": "OT_CKS_PLANT2",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_CKS_PLANT2",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "ba35d708-c402-427c-aa42-12b286ed1d24",
+        "name": "OT_MG_BRUCUTU_AUTONOMOUS_MINE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_MG_BRUCUTU_AUTONOMOUS_MINE",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "0c3a54e5-cd5c-48e0-95af-6882bddf77a6",
+        "name": "OT_MG_CAPANEMA",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_MG_CAPANEMA",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "c02fd321-3bae-4229-938c-44b564e0bdfe",
+        "name": "OT_MG_ITABIRA",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_MG_ITABIRA",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "2e362ee3-5555-4ce1-a03f-0fcb48807c8a",
+        "name": "OT_MG_VARGEM_GRANDE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_MG_VARGEM_GRANDE",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "2133e8aa-9e88-4130-a86d-e22c2a79c752",
+        "name": "OT_MG_VARGEM_GRANDE_PELLETIZING",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_MG_VARGEM_GRANDE_PELLETIZING",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "74b06947-63f3-413f-8423-16c1dccec99c",
+        "name": "OT_MY_LUMUT_PORT",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_MY_LUMUT_PORT",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "1a9c019d-b57c-4306-b323-9831aee67d2a",
+        "name": "OT_OIA_MINE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_OIA_MINE",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "0eaf7c82-38b2-4d67-8b58-fbacba0ae73b",
+        "name": "OT_OIA_PLANT",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_OIA_PLANT",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "b39c7c38-6ecd-40d1-8d30-cb94312946aa",
+        "name": "OT_OM_SOHAR_PEL",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_OM_SOHAR_PEL",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "92a99069-7e4c-45f3-9257-7e129f548552",
+        "name": "OT_PA_SSG_MINE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_PA_SSG_MINE",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "ea7c2053-5ced-42af-a4a6-eb91b66e804e",
+        "name": "OT_PA_SSG_PLANT",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_PA_SSG_PLANT",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "972d4dab-c944-449f-9111-cb2f3188bad2",
+        "name": "OT_RJ_CPBS",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_RJ_CPBS",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "95d01823-d473-486d-8a52-228f7d1e4094",
+        "name": "OT_RJ_CPBS_BKP",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_RJ_CPBS",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "5db5e9d4-465a-4f9e-8807-f0fbccbc7364",
+        "name": "OT_RJ_TIG",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_RJ_TIG",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "1391021a-55bb-4df1-948c-9df8a6902951",
+        "name": "OT_RJ_TIG_BKP",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_RJ_TIG",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "2d55006c-4678-46c0-a3f9-8c5cae365604",
+        "name": "OT_S11D_MINE_NEW",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_S11D_MINE_STORAGE_EXPANSION",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "4a9f118c-8b43-4027-852c-2b38a1e93b4b",
+        "name": "OT_S11D_MINE_STORAGE_EXPANSION",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_S11D_MINE_STORAGE_EXPANSION",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "86027332-4294-45b2-9ffa-cd6822105c17",
+        "name": "OT_S11D_PLANT",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_S11D_PLANT",
+        "linked": true,
+        "status": "off"
+    },
+    {
+        "id": "1b479946-f02c-4daa-b69a-341c39192b8c",
+        "name": "OT_S11D_PLANT_NEW",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_S11D_PLANT",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "8f146a01-7a80-40fb-ad9e-f225dacaad9c",
+        "name": "OT_S11D_PREDICTIVE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_S11D_PREDICTIVE",
+        "linked": true,
+        "status": "off"
+    },
+    {
+        "id": "196bab8d-46a1-48ab-97b5-bf2d4c783e9c",
+        "name": "OT_SALOBO_MINE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_SALOBO_MINE",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "a20086e6-07b0-41a0-9d75-c74792ee9958",
+        "name": "OT_SALOBO_PLANT",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_SALOBO_PLANT",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "1d4134b0-260d-4302-9aac-c93358f41a60",
+        "name": "OT_SERRA_LESTE",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_SERRA_LESTE",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "dd52687b-9bda-42a6-ab0e-387c9a30ec24",
+        "name": "OT_SLZ_EFC",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_SLZ_EFC",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "f1411160-f1aa-4efd-b77f-f305c03872a7",
+        "name": "OT_SLZ_NICKEL",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_SLZ_NICKEL",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "697b23f5-60b4-4c85-a6b8-255a55290391",
+        "name": "OT_SLZ_PELLETIZING",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_SLZ_PELLETIZING",
+        "linked": true,
+        "status": "off"
+    },
+    {
+        "id": "dfae089f-a380-437a-b59f-5a2f1405d1f0",
+        "name": "OT_SLZ_PORT",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_SLZ_PORT",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "4e3a458a-e844-4d4c-b109-ce7595407f83",
+        "name": "OT_VIX_EFVM",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_VIX_EFVM",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "88eda2b3-8b54-42e4-895d-4ad777b0f631",
+        "name": "OT_VIX_PELLETIZING",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_VIX_PELLETIZING",
+        "linked": true,
+        "status": "on"
+    },
+    {
+        "id": "2331b166-8ee0-4d3f-9a87-1047b0e4cd22",
+        "name": "OT_VIX_PORT",
+        "type": "managed",
+        "network_name": "VALE_NTW_OT_VIX_PORT",
+        "linked": true,
+        "status": "on"
+    }
+]

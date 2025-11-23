@@ -1,0 +1,4850 @@
+[
+    {
+        "uuid": "d0bc7416-f3ed-4cf1-8b27-2728172e9b1c",
+        "name": "VALEINDUSTRIAL_iDMZ_2.0_om.valeops.net_DOMAIN_CONTROLLER",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1744635967,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "96cc44e5-d4c3-44e5-a5ea-d2e0f38d3842",
+        "name": "VALEINDUSTRIAL_iDMZ_2.0_my.valeops.net_DOMAIN_CONTROLLED",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1744635919,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "86f3a7d9-7831-4d64-9e6f-c8a7a390de9c",
+        "name": "VALE_AR_ORACLE_PC_POC21C09",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489503,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "57b97075-f795-4a88-afa3-381addf3f57b",
+        "name": "VALE_AR_ORACLE_PC_PBR079",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489503,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "36991cfc-f84a-4ada-8420-c0b5992e2e08",
+        "name": "VALE_AR_ORACLE_PC_PBR078",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489503,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "251ab809-71df-44f7-914e-e1594c95b596",
+        "name": "VALE_AR_ORACLE_PC_PBR077",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489502,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "befa1ffa-c94d-4bbf-90b8-4a0df561f49c",
+        "name": "VALE_AR_ORACLE_PC_PBR075",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489502,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "83f73509-e2cd-4c61-b313-07b0cc809b2a",
+        "name": "VALE_AR_ORACLE_PC_POC21C05",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489502,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "058264e7-58d4-4e31-a0c7-8a40dd760fa6",
+        "name": "VALE_AR_ORACLE_PC_POC51C041",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489502,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "87fa5ad0-40e1-4b35-ba50-9899bd57bdad",
+        "name": "VALE_AR_ORACLE_PC_POC51C03",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489501,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a3b3c54e-cb35-4fcb-80bd-7c977049f13c",
+        "name": "VALE_AR_ORACLE_PC_POC51C02",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489501,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "18e0aac8-7014-4704-a0d8-29883f8b442a",
+        "name": "VALE_AR_ORACLE_PC_POC21C061",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489501,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "d1dbd36d-07ec-4466-9390-a88470ad73aa",
+        "name": "VALE_AR_ORACLE_PC_PSMC3C16",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489500,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "ab2588b5-4511-4f68-ae84-ae6eba9d0b96",
+        "name": "VALE_AR_ORACLE_PC_POC21C07",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1742489500,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "7e6b08b6-c3e0-43f4-98e4-11f51071b42c",
+        "name": "VALE_AR_OT_SSG_WINDOWS_PPASSG.LOCAL_MEMBER_SERVER",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1741975760,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "f958e8a5-723b-40dd-ab6c-f9738aaa6334",
+        "name": "VALE_AR_OT_SSG_WINDOWS_PPASSG.LOCAL_AD",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1741975676,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "d336920d-c1ef-454a-bffe-7da404a37ea0",
+        "name": "VALEINDUSTRIAL_iDMZ_2.0_om.valeops.net",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1739902097,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "2ef4f123-af20-4c17-a605-f649c727efb3",
+        "name": "VALEINDUSTRIAL_iDMZ_2.0_my.valeops.net",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1739884847,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3f846e4e-2b03-4010-a06d-ace568659594",
+        "name": "VALE_AR_ORACLE_PC_POC21C041",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1739277533,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "58e57538-ed71-4084-8926-e9316546fe05",
+        "name": "VALE_AR_ORACLE_PC_POC21C031",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1739277532,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b20527e0-fb9b-49c5-90b1-d944a7683b80",
+        "name": "VALE_AR_ORACLE_PC_POC21C021",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1739277532,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "454d4e6e-ae40-4661-bc35-9e971abc53d8",
+        "name": "VALE_AR_ORACLE_PC_POC21C01",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1739277532,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "fc50b51d-7954-4dc4-a71b-5101dc757974",
+        "name": "VALE_AR_OT_S11D_WINDOWS_DOMAIN_S11DMULTISYSTEM.LOCAL",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1738243049,
+        "created_by": {
+            "id": 8309,
+            "display_name": "barbara.costa@br.ibm.com"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "0c4cbf05-d2d8-4007-b758-2ff1f5b594cc",
+        "name": "VALE_AR_OT_S11D_WINDOWS_DOMAIN_S11DMINAS.LOCAL",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1738242989,
+        "created_by": {
+            "id": 8309,
+            "display_name": "barbara.costa@br.ibm.com"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "fbfb4f6a-e82e-4cf5-be17-a006ce2ead41",
+        "name": "VALE_AR_OT_S11D_WINDOWS_DOMAIN_S11DUSINAS.LOCAL",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1738242902,
+        "created_by": {
+            "id": 8309,
+            "display_name": "barbara.costa@br.ibm.com"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "d3d79067-35fe-4783-8060-4f179143f648",
+        "name": "VALE_AR_OT_CAPANEMA_WINDOWS_ BROPO8MIN001.ind",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1737726414,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23628,
+            "display_name": "c0666492@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e5aec5af-a6cf-4cd5-913a-aafc6e7cea25",
+        "name": "VALE_AR_OT_RJ_TIG_BRMANPOR001.IND_DOMAIN_CONTROLLER",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1736533848,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "4d77dd45-9488-489d-8e31-e651eaeefe0d",
+        "name": "VALE_AR_ORACLE_PC_SOC41C01",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287246,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "1e4fa936-bd46-4e76-849a-72e60ec619b1",
+        "name": "VALE_AR_ORACLE_PC_POC51C02DR",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287245,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "4ab66992-23d9-467b-ae7c-f553447fdc8e",
+        "name": "VALE_AR_ORACLE_PC_HOC41C04",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287245,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "872ba0c9-121b-4a09-9bfa-4bcfc790f58f",
+        "name": "VALE_AR_ORACLE_PC_HOC41C03",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287245,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3236f2be-3967-471a-a75e-9fde7f0afe82",
+        "name": "VALE_AR_ORACLE_PC_HOC41C02",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287245,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "77045471-be6e-4901-bd4d-e7710036c827",
+        "name": "VALE_AR_ORACLE_PC_HOC41C01",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287244,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "24fd523a-6b96-4e07-9408-2d2f0ecca139",
+        "name": "VALE_AR_ORACLE_PC_DCAT1C021",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287244,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "fd6c10a0-bb0a-48dc-8ea8-69db504dce9b",
+        "name": "VALE_AR_ORACLE_PC_DCAT1C02",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287244,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3d89b155-d7dd-4e33-8886-882d8318ef59",
+        "name": "VALE_AR_ORACLE_PC_HOC13C17",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287243,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "1d851d78-8517-4a6d-b63c-4d65a6cbaa89",
+        "name": "VALE_AR_ORACLE_PC_HOC13C15",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287243,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "036af560-db7c-4a84-95e7-0fa09ebebeb9",
+        "name": "VALE_AR_ORACLE_PC_HOC13C14",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287243,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "dafeb5e8-1bc5-45c1-a0a4-42c6b6c4a8bf",
+        "name": "VALE_AR_ORACLE_PC_HOC13C11",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287242,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "98ed03ee-2ff1-4b35-abaa-1e2916447608",
+        "name": "VALE_AR_ORACLE_PC_HOC13C10",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287242,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "ed3942e8-f9b7-483f-8ea2-6b1010ee99ff",
+        "name": "VALE_AR_ORACLE_PC_HOC13C09",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287242,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "564045ca-966a-42e7-bb4c-2f52f5a37975",
+        "name": "VALE_AR_ORACLE_PC_HOC13C08",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287241,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c8d9a8cc-877e-4404-86fd-2a7e8cb95c01",
+        "name": "VALE_AR_ORACLE_PC_HOC13C07",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287241,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "eafec608-7fe1-4d39-b57f-005fad2189b3",
+        "name": "VALE_AR_ORACLE_PC_HOC13C06",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287241,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "dcd92945-43ac-4d28-a949-a3745ab44bf6",
+        "name": "VALE_AR_ORACLE_PC_HOC13C05",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287241,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "af324c10-4865-4804-b3db-da6ca5793a59",
+        "name": "VALE_AR_ORACLE_PC_HOC13C04",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287240,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "59850ff1-b63a-40f3-8fa1-8871963aa597",
+        "name": "VALE_AR_ORACLE_PC_HOC13C03",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287240,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "366bb1cc-328e-4208-9397-3a356d7f418d",
+        "name": "VALE_AR_ORACLE_PC_HOC13C02",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287240,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b18a2529-cd91-4b09-8e3a-3b4fe6b42fc0",
+        "name": "VALE_AR_ORACLE_PC_HOC13C01",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287239,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "1fde7089-3300-40ec-8ea5-151af72e3149",
+        "name": "VALE_AR_ORACLE_PC_HBR001",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732287239,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c7616273-6614-4d9f-a871-647b30b7f031",
+        "name": "VALE_AR_ORACLE_PC_RMAN",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023132,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e09c08bc-1bfa-4f3f-be0c-7ea4bbdb1837",
+        "name": "VALE_AR_ORACLE_PC_POC22C12",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023131,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "31391862-6cbf-4d77-b33c-da8224b8e2f8",
+        "name": "VALE_AR_ORACLE_PC_POC22C11",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023131,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "95cb83ac-33da-4b4b-a8b0-a3f0a3cdd57f",
+        "name": "VALE_AR_ORACLE_PC_POC22C07",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023131,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "5036c9d0-f362-4607-9cd2-4540f0df5636",
+        "name": "VALE_AR_ORACLE_PC_POC22C05",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023130,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "31c52480-15fb-40cd-b3b6-677b79e60f75",
+        "name": "VALE_AR_ORACLE_PC_POC22C04",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023130,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "aa6bd6c8-3e93-40ca-ac07-63c2acf04598",
+        "name": "VALE_AR_ORACLE_PC_PCL003",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023129,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "4531e22f-12b9-4979-9c4d-96132eafb438",
+        "name": "VALE_AR_ORACLE_PC_PCL001",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1732023129,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "20c0d098-3717-41c4-9d10-c73bbaf8d01d",
+        "name": "VALE_AR_ORACLE_PC_DOC12C09",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991904,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "5b038355-5cab-492b-a848-0a17d5bcd340",
+        "name": "VALE_AR_ORACLE_PC_DOC12C08",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991904,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "de81129e-54f2-4c75-96a4-cd3cc39e1475",
+        "name": "VALE_AR_ORACLE_PC_DOC12C07",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991903,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e5b38a5b-55da-46cf-bfd7-4990b87ae343",
+        "name": "VALE_AR_ORACLE_PC_DOC12C06",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991903,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c08af3aa-fa2c-4c3b-aaf7-dad08fd75de6",
+        "name": "VALE_AR_ORACLE_PC_DOC12C05",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991903,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b49e928b-d728-4384-8527-11503a95493d",
+        "name": "VALE_AR_ORACLE_PC_DOC12C05",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991902,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "477015f4-0d53-4db0-a35d-b6a353de0813",
+        "name": "VALE_AR_ORACLE_PC_DOC12C04",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991902,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "194055b8-2681-43c7-b731-e958bd10e2db",
+        "name": "VALE_AR_ORACLE_PC_DOC12C01",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991902,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "7898a85e-27d2-4be9-8186-ed58234c82b3",
+        "name": "VALE_AR_ORACLE_PC_DOC12C03",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1730991901,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "cbc6eb2b-9700-48c1-b81a-d505793babc8",
+        "name": "VALE_AR_MY_LUMUT_PORT_WINDOWS_DOMAIN_mylumpor001.ind",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1729775689,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e34406ce-85af-4984-a2b4-c43cd4c1dab2",
+        "name": "VALE_AR_OM_SOHAR_WINDOWS_DOMAIN_abbdmz.local",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1729775129,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e95aad40-f713-4c93-8d9b-215d49062044",
+        "name": "VALE_AR_OM_SOHAR_WINDOWS_DOMAIN_omsoh1pel001.ind",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1729775070,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "87de9ac7-cd18-4805-9f47-e1928010035c",
+        "name": "VALE_AR_ORACLE_PC_DOC12C11",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1728412359,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a18e2750-872c-4935-a061-124619b2f2e6",
+        "name": "VALE_AR_ORACLE_PC_DOC12C10",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1728411734,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "4b8d799e-f6a8-4c6e-8ba9-a64584665a98",
+        "name": "VALE_AR_NETWORK_BRIQUETE",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1725974058,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "24c85f0f-c106-4c99-93b5-c8f9b3045d60",
+        "name": "VALE_AR_OT_BTM01_WINDOWS_tabtm1.vale.br",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1724074881,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c03d661a-171c-4795-bcea-c332289bb978",
+        "name": "VALE_AR_OT_OIA_PLANT_WINDOWS_MOPVALE800XA.LOCAL",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1724073970,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "8540d849-000a-407f-be8b-453aeeea530e",
+        "name": "Oracle DB - OEMREP",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1722513568,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "76deb394-9e39-4db4-a0d0-84118d74821f",
+        "name": "Autenticar no BD Oracle - NR0",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1718911100,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "fce09c4d-0fa3-40e5-9468-b5b7c87d857f",
+        "name": "VALE_AR_CKS_GEOTECNIA_WINDOWS_BRGEOTECH_DOMAIN_CONTROLLER",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1715175157,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "5865f8a4-8841-4b08-aef9-815af99d7c1f",
+        "name": "VALE_AR_IT_ESXi_SOAP_API_LOCAL",
+        "description": "",
+        "category": {
+            "id": "Miscellaneous",
+            "name": "Miscellaneous"
+        },
+        "type": {
+            "id": "VMware ESX SOAP API",
+            "name": "VMware ESX SOAP API"
+        },
+        "created_date": 1715110227,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "6f7f711e-a072-415a-9958-2aa3754d7d48",
+        "name": "VALE_AR_CKS_GEOTECNIA_WINDOWS_BRGEOTECH",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1714399409,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "478241a3-48eb-49a6-a49b-3bd2f2dd2602",
+        "name": "VALE_AR_OM_SOHAR_WINDOWS_DOMAIN_system800xA",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1711627429,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "4592b33d-305f-4e1e-965d-0b514b3771f2",
+        "name": "VALE_AR_MY_LUMUT_PORT_WINDOWS_DOMAIN_system800xA",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1711120250,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "8dea0788-7009-4f28-b11c-5065702febea",
+        "name": "VALE_AR_OT_CA_GARSON_WINDOWS_DOMAIN_Cagarmin001.ind",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1693594231,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "8933b62e-5731-451a-8290-0f2c796462b0",
+        "name": "VALE_AR_OT_CKS_S11D_WINDOWS_WORKGROUP",
+        "description": "Credential created for these 2 assets: IV-6071KS-203 and IV-6071KS-204",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1692641361,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5682,
+            "display_name": "valeria.vianna@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "449a7d65-11b9-4de0-90a0-c642b631d7a3",
+        "name": "VALEINDUSTRIAL_iDMZ_2.0_br.valeops.net",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1690549635,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e6b1ed6b-237c-417d-bb8b-893830a4fd70",
+        "name": "VALEINDUSTRIAL_iDMZ_2.0_valeops.net",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1690549513,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a169d8bd-50cb-4c23-b3f9-d6d1a50c8c6d",
+        "name": "VALE_AR_OT_CA_VBME_WINDOWS_DOMAIN_CAGOOUTI001.IND",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1686747984,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "fa64480e-4ad8-4200-bb2b-a519b759b49c",
+        "name": "IBM_AR_IT_QRADAR",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1686679696,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3d4ad282-02fc-43e1-b1a3-2d029c47c0c5",
+        "name": "VALE_AR_OT_SALOBO_PLANT_WINDOWS_salobo800xA.local",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1686598573,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "5fd04173-9cf4-440d-811c-03e1a68420d8",
+        "name": "VALE_AR_OT_SERRA_LESTE_WINDOWS_VALESL.Local",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1684523644,
+        "created_by": {
+            "id": 7142,
+            "display_name": "tiago.duarte@vale.com"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "eab126b4-06db-43c5-836f-7a2cd8121560",
+        "name": "VALE_AR_IT_ESXi_SOAP_API",
+        "description": "",
+        "category": {
+            "id": "Miscellaneous",
+            "name": "Miscellaneous"
+        },
+        "type": {
+            "id": "VMware ESX SOAP API",
+            "name": "VMware ESX SOAP API"
+        },
+        "created_date": 1680269522,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "66640564-23be-47ae-b030-b96ddb71500d",
+        "name": "VALE_AR_OT_SERRA_LESTE_WINDOWS_BRCUSMIN001.IND",
+        "description": "Serra Leste",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680199595,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "70db1282-b536-4e6f-95e5-4ff9fa290ba4",
+        "name": "VALE_AR_OT_CKS_IIOP_BRPRS1VAOTAS078.WORKGROUP",
+        "description": "Testar",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017155,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "14039ecf-3070-4116-9fad-f996d7d464d1",
+        "name": "VALE_AR_OT_SLZ_PELLETIZING_WINDOWS_OTTECPEL.Local",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017134,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "37723bed-9079-45e5-b6a5-2f67e56303ba",
+        "name": "VALE_AR_OT_S11D_MINE_STORAGE_EXPANSION_WINDOWS_DOMAIN_brs11min001.ind",
+        "description": "Testar",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017114,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "8711806a-d8dd-40d6-a7c3-2dc36cf15c1c",
+        "name": "VALE_AR_OT_SALOBO_PLANT_WINDOWS_SALOBOIIT.LOCAL",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017090,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "21bd3d2a-964b-4e54-8de2-4c27b15439a4",
+        "name": "VALE_AR_OT_S11D_PLANT_WINDOWS_WORKGROUP",
+        "description": ".",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017069,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5682,
+            "display_name": "valeria.vianna@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "601cc897-e530-4a0b-899d-ee81f795e309",
+        "name": "VALE_AR_OT_OIA_PLANT_WINDOWS_DOMAIN_MOPVALE.ABB800xA",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017046,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "8fbac6a5-6084-4003-950d-544f1bb82cce",
+        "name": "VALE_AR_OT_MG_VGR_DAM_ECOSYSTEM_WINDOWS_DOMAIN_BRNLIMIN001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017025,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "5ad3e2a8-0360-45fe-bb82-53234ce27673",
+        "name": "VALE_AR_OT_CA_VBME_WINDOWS_DOMAIN_CAGOOMIN001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680017001,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "75576c8e-6410-426c-a4be-4cb97ef9faa9",
+        "name": "VALE_AR_IT_MARKETING_AEREA_WORKGROUP",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016976,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "edab707c-b8e7-4ddb-b2b2-db12c65da5ec",
+        "name": "VALE_AR_OT_CKS_PLANT2_VALEAUCJS40MTPA.LOCAL_DOMAIN",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016958,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b1291bf8-2368-4ac4-a7d3-02f78afd1155",
+        "name": "VALE_AR_OT_SLZ_NICKEL_TERMINAL_WINDOWS_WORKGROUP",
+        "description": "Sem IP no AR",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016935,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "6b4e830e-cd89-4187-82ed-0e77b30d9124",
+        "name": "VALE_AR_OT_SLZ_NICKEL_TERMINAL_WINDOWS_DOMAIN_MOPVALESL.ABB800xA",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016917,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "7ecbc9f0-ca0b-429c-a55e-a7b6c2007ab3",
+        "name": "VALE_AR_OT_MG_VARGEM_GRANDE_WINDOWS_TOP.TA",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016894,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a7303a89-986c-41fb-b126-e4f046d0cf61",
+        "name": "VALE_AR_OT_RJ_TIG_WINDOWS_WORKGROUP",
+        "description": "Sem IP no AR",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016871,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "0ae78303-7a3b-4d91-8f08-9a18830e12a9",
+        "name": "VALE_AR_BR2100039",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016825,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "afc26a0c-c6e2-4bc9-b7ff-5404598f6e2b",
+        "name": "VALE_AR_OT_OIA_PLANT_WINDOWS_DOMAIN_BRONOMIL001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016802,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "97477c42-5448-4523-b2f8-cc1b2ab84c38",
+        "name": "VALE_AR_OT_OIA_MINE_WINDOWS_DOMAIN_BRONOMIN001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016779,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3e6db33b-a52e-4193-8bb9-7f80601de75a",
+        "name": "VALE_AR_OT_SSG_PLANT_WINDOWS_DOMAIN_BRSSGMIL001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016752,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "10fb1081-8a41-4703-8682-5c6796732f5b",
+        "name": "VALE_AR_OT_SLZ_NICKEL_TERMINAL_WINDOWS_DOMAIN_BRSLZUTI001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016724,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "62fce061-3a2d-44b4-84be-12423d013661",
+        "name": "VALE_AR_OT_RJ_CPBS_WINDOWS_DOMAIN_VALE.BR (CPBS)",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016700,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3931d4ed-f6f9-4901-ada0-1bf9e4471eff",
+        "name": "VALE_AR_OT_S11D_PLANT_WINDOWS_DOMAIN_BRS11MIL001.IND",
+        "description": "Testar",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016674,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a3444d02-54f1-447c-9a3d-7aff2d9d85de",
+        "name": "VALE_AR_OT_RJ_TIG_WINDOWS_DOMAIN_BRMANPOR001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016644,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c4079651-41ea-4482-8603-a3d88070059f",
+        "name": "VALE_AR_OT_MG_WINDOWS_DOMAIN_AUTOMACFAB.BR",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016621,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "d24defe8-b9ce-4c08-aa35-64869d918686",
+        "name": "VALE_AR_OT_CKS_S11D_WINDOWS_DOMAIN_S11DUSINA.LOCAL",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016597,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "d66e2037-2e08-4a76-b9e5-3efc0de74c45",
+        "name": "VALE_AR_OT_CKS_S11D_WINDOWS_DOMAIN_S11DMINA.LOCAL",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016571,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "6b7e5db8-aa30-4dab-a061-85c5a2cc9698",
+        "name": "VALE_AR_OT_SSG_PLANT_WINDOWS_DOMAIN_PPASOSSEGO.LOCAL",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016542,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "f8953d60-4dc6-476a-bcb3-b76f1a59769d",
+        "name": "VALE_AR_OT_MG_VGR_PELLETIZING_WINDOWS_DOMAIN_PELOTIZACAO.VGR",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016513,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "8fbd1408-bf95-4c9b-9b54-f2419e5abc83",
+        "name": "VALE_AR_OT_CKS_MINE_AUTONOMOUS_DOMAIN_BRPRSMIN001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016491,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "48acb3da-d1b3-4d0b-abdd-52888eab99e9",
+        "name": "VALE_AR_OT_MG_BRUCUTU_AUTONOMOUS_MINE_WINDOWS",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016466,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "dd115135-9207-41be-9405-740d0c0f7aca",
+        "name": "VALE_AR_OT_MG_FABRICA_PELLETIZING_WINDOWS_DOMAIN_AUTFAB.CORP",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016440,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "f5bcaca3-b007-4644-b3b8-19cde1a8a387",
+        "name": "VALE_AR_OT_SSG_MINE_WINDOWS_DOMAIN_BRSSGMIN001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016418,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c63f847b-1d88-44b6-8aa0-e65b970820ae",
+        "name": "VALE_AR_OT_CKS_MINE_WINDOWS_DOMAIN_VALECKSTA.mina.br",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016380,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "7461fe61-7d38-40ae-8bf6-7d0052e5237c",
+        "name": "VALE_AR_OT_CKS_PLANT1_AUTOMACAO.AUT_DOMAIN",
+        "description": "Ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016344,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "1811f179-9ab7-445e-970d-86efafafd4be",
+        "name": "VALE_AR_OT_CKS_PLANT1_AUTOPCE_DOMAIN",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016317,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "6063f7f2-003d-4a9e-85cd-108482c4440f",
+        "name": "VALE_AR_OT_SLZ_EFC_WINDOWS",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016295,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a4c22539-49b5-4905-ad1c-de3dcb0e7e30",
+        "name": "VALE_AR_OT_SLZ_PELLETIZING_WINDOWS",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016273,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "94c16948-f74d-4e1d-a545-ddb900ee4d90",
+        "name": "VALE_AR_OT_MG_WINDOWS_SMARTPPT_SIREN",
+        "description": "Validar IP ativo",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016249,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c9253103-371b-4097-bcca-a44c8c62c652",
+        "name": "VALE_AR_OT_MG_WINDOWS_VEKTRA_SIREN",
+        "description": "Precisa resetar senha no srv e vlaidar se a cred esta sendo utilizada por outro srv.",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016227,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 7142,
+            "display_name": "tiago.duarte@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e0370b52-60f9-4b58-94c6-3fbed3a89f31",
+        "name": "VALE_AR_OT_VIX_PORT_WINDOWS_WORKGROUP_VALEMAX",
+        "description": "Sem IP no AR",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016201,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b707ab12-bbbb-4323-bbeb-16568b0780c2",
+        "name": "VALE_AR_OT_VIX_PORT_WINDOWS_DOMAIN_vale-ta",
+        "description": "dominio decomm'ed - VLI resp.",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016182,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b52f0c4b-b4b6-4c30-bf2c-9cbdd0a42326",
+        "name": "VALE_AR_OT_SLZ_PORT_WINDOWS_automacao.slz.cvrd",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016160,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3b19e166-8ae8-4872-a499-9ab3aa6bcc06",
+        "name": "VALE_AR_OT_VIX_EFVM_WINDOWS_WORKGROUP",
+        "description": "Validar se IP ainda esta ativo, se migrado pro dom tovm e criacao do ID local/reset de senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016121,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "d4fcd45d-df3a-49b0-8fc5-50187c47574c",
+        "name": "VALE_AR_OT_SALOBO_PLANT_WINDOWS_IIT_SALOBO.ABB.LOCAL",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016103,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5682,
+            "display_name": "valeria.vianna@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "12b45e89-ad3b-46d9-b8a6-aad0e61bc5b6",
+        "name": "VALE_AR_OT_SALOBO_MINE_WINDOWS_slb.mmsi.com",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016077,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "419d6e11-adc2-419d-990b-ac8ddef1e301",
+        "name": "VALE_AR_IT_AUDIT_INFRASTRUCTURE",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016055,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "f88ba7e2-63d9-4186-8475-8305d62e554a",
+        "name": "VALE_AR_OT_VIX_EFVM_WINDOWS",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016029,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b918fb18-4fa4-463f-984d-9a9076cfdb66",
+        "name": "VALE_AR_OT_VIX_PORT_WINDOWS",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680016005,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e26cf56a-417d-421c-8d77-23934bbae9a3",
+        "name": "VALE_AR_OT_CKS_S11D_WINDOWS_WORKGROUP",
+        "description": "Solicitar criacao da conta de srv para scan",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015978,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5682,
+            "display_name": "valeria.vianna@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "81acac11-fb65-4816-a720-76e4d50fe6da",
+        "name": "VALE_AR_OT_CKS_S11D_WINDOWS_DOMAIN_vale.emerson.s11d.local",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015958,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5682,
+            "display_name": "valeria.vianna@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "9a84e79a-3f74-4d37-9b36-760a4083487e",
+        "name": "VALE_AR_OT_MG_WINDOWS_DOMAIN_VALE-TA.DIFL.BR",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015932,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "2d6deea9-c75b-4df3-a5aa-4940111dffb6",
+        "name": "VALE_AR_OT_MG_ITABIRA_CE_WINDOWS_DOMAIN_TOP.TA",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015909,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "2bcbfe05-f1ae-470c-83f9-157aab4a59d6",
+        "name": "VALE_AR_WINDOWS_LOCAL_MBR.COM.BR",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015881,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "dcfa9c00-5a44-402d-8cbb-f106f3da4bef",
+        "name": "VALE_AR_OT_VIX_PELLETIZING_WINDOWS_tadipevit.cvrd.br",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015841,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "1a3e0a1c-c645-4057-84b8-9e068b308212",
+        "name": "VALE_AR_CLOUD_PROJECT_WINDOWS",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015815,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "9457e391-9753-46f9-9aab-d79e55f5e432",
+        "name": "CVRD",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1680015793,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "75accf86-cef5-46ab-afba-a5b7646507b7",
+        "name": "VALE_AR_OT_VBME_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015526,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "86f1c406-2f47-4089-b6f8-a2ad5752a741",
+        "name": "VALE_AR_OT_iDMZ_FTD",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015496,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3007a1cf-f60d-4c48-a7a4-83d0c4b73ee3",
+        "name": "VALE_AR_OT_MG_BRUCUTU_AUTONOMOUS_MINE_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015472,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e8834605-6d34-491e-8833-d782f99c00ce",
+        "name": "VALE_AR_OT_SLZ_NICKEL_TERMINAL_NETWORK_iDMZ_DOMAIN_BRSLZUTI001.IND",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015450,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "16c09db2-f788-4dfd-9f6d-c08f5b163586",
+        "name": "VALE_AR_OT_CKS_MINE_NETWORK_TACACS",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015405,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a9620258-9e69-4601-ab57-3290c241f2bb",
+        "name": "VALE_AR_OT_CKS_PLANT1_ NETWORK_TACACS",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015386,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "f1fd5533-2caa-4ed7-956c-e3317c4982e4",
+        "name": "VALE_AR_OT_MG_VGR_PELLETIZING_NETWORK_iDMZ_DOMAIN_PELOTIZACAO.VGR",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015365,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "18f7ed13-3b31-48d6-82e6-ea927af6b84b",
+        "name": "VALE_AR_OT_SLZ_PELLETIZING_NETWORK_iDMZ_tadipesl.vale.br",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015337,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "9d598173-cd2a-4d87-afe9-8aa422b58e32",
+        "name": "VALE_AR_OT_SLZ_EFC_NETWORK_iDMZ_BRSLZRAI001.IND",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015310,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "ccfb420e-fdd3-4355-a1bb-d338891744b8",
+        "name": "VALE_AR_OT_RJ_TIG_NETWORK_iDMZ_BRMANPOR001.IND",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680015282,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "88e13e10-60be-4591-8fcd-683b2155107d",
+        "name": "VALE_AR_OT_MG_VGR_PELLETIZING_UNIX",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680014437,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "6d8b18cc-3118-476b-9369-1bcb32e26b82",
+        "name": "VALE_AR_OT_SLZ_NICKEL_TERMINAL_NETWORK_DOMAIN_BRSLZUTI001.IND",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013937,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "bb1f57da-7714-48c9-9e01-8358720df520",
+        "name": "VALE_AR_OT_MG_VGR_PELLETIZING_NETWORK_DOMAIN_PELOTIZACAO.VGR",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013907,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3d74b9fe-68e8-44c9-8699-335e2d2bd3d2",
+        "name": "VALE_AR_OT_MG_FABRICA_PELLETIZING_NETWORK_DOMAIN_AUTFAB.CORP",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013881,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "b205c1f2-f398-4ca4-a64a-1170bab846f1",
+        "name": "VALE_AR_OT_RJ_TIG_NETWORK_BRMANPOR001.IND",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013858,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e25024bc-01d3-459c-882a-c2f2204e977a",
+        "name": "VALE_AR_OT_RJ_CPBS_NETWORK_DOMAIN_VALE.BR (CPBS)",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013836,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "74083356-5f74-4859-9fe5-75b55f8316bb",
+        "name": "VALE_AR_OT_MG_VARGEM_GRANDE_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013799,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "78fc9a50-0761-4f55-8593-a35144e6e965",
+        "name": "VALE_AR_OT_MG_ITABIRA_CE_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013780,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "ff0a4df1-2884-48a9-b298-44ffeb6a636d",
+        "name": "VALE_AR_OT_SLZ_EFC_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013742,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "3b7cff71-122b-4302-ad2c-c273caa8f2de",
+        "name": "VALE_AR_OT_VIX_EFVM_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013719,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a5a31f5b-5f7b-4e5e-a964-2caec5f4e13e",
+        "name": "VALE_AR_OT_VIX_PORT_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013684,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "101a6207-de61-47d0-a508-14ca39f34a0a",
+        "name": "VALE_AR_OT_VIX_PELLETIZING_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013659,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a68f0b75-271e-44f6-b92e-971410cb446b",
+        "name": "VALE_AR_OT_SLZ_PORT_NETWORK",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013604,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "96f67a6f-b80a-4bab-9463-d2522d2bf093",
+        "name": "VALE_AR_HOSTING_SOLARIS_10",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013528,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "0512ad84-48de-48be-8e19-0ca2ae984b40",
+        "name": "VALE_AR_FIREWALL_FTD_LOCAL",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013464,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "145a371d-ac74-4992-a3e2-14d14967b52b",
+        "name": "VALE_AR_HOSTING_SOLARIS_11",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013415,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "0e8918b9-9165-477f-82eb-44427c3a13bb",
+        "name": "VALE_AR_NETWORK_UNIX",
+        "description": "falta senha",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1680013371,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "e9bce0b9-69d4-4c4c-8bf0-30e6507aed7a",
+        "name": "VALE_AR_OT_SUD_WINDOWS_MS_CASUDMIN001.IND",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1679421976,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "64edb05e-09b3-4cb1-85b9-c39a84136c5e",
+        "name": "VALE_AR_OT_LH_WINDOWS_AD_CALOHUTI001.IND",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1679421578,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "882ccd0d-230b-4a24-90f6-5c8c366b55ca",
+        "name": "VALE_AR_OT_LH_WINDOWS_MS_CALOHUTI001.IND",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1679058638,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "77e47026-8e92-41cc-a2a4-e0d632f7aaa0",
+        "name": "VALE_AR_OT_LH_WINDOWS_VALEINDUSTRIAL",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1679058513,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5682,
+            "display_name": "valeria.vianna@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "fa12fece-596b-4746-a055-3305c7567a53",
+        "name": "VALE_AR_CLOUD_PROJECT_UNIX",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1675261824,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 7143,
+            "display_name": "cinthia.carvalho@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "d8b733a1-7be9-4fc0-b549-95166a7774b4",
+        "name": "VALE_AR_IT_VOIP_UNIX",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1675174667,
+        "created_by": {
+            "id": 5682,
+            "display_name": "valeria.vianna@vale.com"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "a4e28638-5a92-493c-9ddc-613a2832df71",
+        "name": "Vale ITPCN",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1672771881,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "6d6d1803-35d0-4e72-9f55-39b086aecb9b",
+        "name": "VALE_AR_NETWORK_TACACS NEW",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1672332212,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 23630,
+            "display_name": "c0695939@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "0cbbf5ee-7cc4-461d-b091-c5006415bd7e",
+        "name": "VALE_AR_NETWORK_TACACS",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1670610632,
+        "created_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "83b8e4a7-7c3a-4f9d-84d2-d084620e5ae3",
+        "name": "VALE_AR_OT_CKS_IIOP_BRPRS1VAOTAS078.WORKGROUP",
+        "description": "ok",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1670336909,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "06dc152a-2e2f-460e-80ff-66a354b07a35",
+        "name": "Autenticar no BD Oracle - EC0",
+        "description": "",
+        "category": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "type": {
+            "id": "Database",
+            "name": "Database"
+        },
+        "created_date": 1669223299,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "8927c613-ad78-4f9e-9290-d0b650c14bdd",
+        "name": "VALE_AR_ASM_SMB_S-AD-ASM",
+        "description": "Credencial para realização do scan de pastas compartilhadas",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1669211129,
+        "created_by": {
+            "id": 5753,
+            "display_name": "maikon.zeppe@vale.com"
+        },
+        "last_used_by": {
+            "id": 5753,
+            "display_name": "maikon.zeppe@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c007902f-95d9-4d9e-8d27-322836ad4634",
+        "name": "VALE_AR_OT_SLZ_PELLETIZING_WINDOWS_OTTECPEL.Local",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668716983,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 8380,
+            "display_name": "c0668856@vale.com"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "30a5b032-451d-4855-bf5d-c24064646581",
+        "name": "VALE_AR_DXC_UNIX",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1668631444,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "dd48b344-3e0d-4324-8eff-fb712532103c",
+        "name": "VALE_AR_IT_VC_POLYCOM_RPAD",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1668627297,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "fe17001b-8692-4ecd-9468-343673206c73",
+        "name": "VALE_AR_IT_VC_POLYCOM_RMX",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1668627186,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "0e5cdb9e-81eb-4b0b-842d-8d232821296a",
+        "name": "VALE_AR_IT_VC_POLYCOM_RPRM",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1668625765,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "999e5794-d1bc-42e5-9cde-bb649b317c0f",
+        "name": "VALE_AR_IT_VC_POLYCOM_DMA_WEB",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "SSH",
+            "name": "SSH"
+        },
+        "created_date": 1668625336,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "5172ae4c-473f-46f8-b5ce-9bbb6c4616a4",
+        "name": "VALENET  (TIER0 and DCs)",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668622469,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "2ec515a9-9bed-41ad-9941-cefbccc12e06",
+        "name": "VALE_AR_DXC_WINDOWS_WORKGROUP",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668622376,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "1d534247-6268-4696-8ec2-48e9a472d55f",
+        "name": "VALE_AR_OT_SLZ_NICKEL_TERMINAL_NETWORK_iDMZ_DOMAIN_BRSLZUTI001.IND",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668622154,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "70043f39-d467-4948-9c89-b63d37590765",
+        "name": "VALE_AR_OT_MG_VGR_PELLETIZING_NETWORK_iDMZ_DOMAIN_PELOTIZACAO.VGR",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668622078,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": null,
+            "display_name": null
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "662bb281-ecdb-401c-af4a-09266410e06d",
+        "name": "Valenet",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668621949,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "f47d403b-9f74-4ed7-b017-a8fb097d231a",
+        "name": "VALEINDUSTRIAL",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668621852,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "5fcc6618-d0a5-4edd-9554-88b481a54374",
+        "name": "VALE_AR_IT_VALENETQA.VALEGLOBALQA.NET_DOMAIN",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668621748,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "329cb06b-a2f3-4a8c-bea9-fa7d752a06ac",
+        "name": "VALE_AR_IT_VALEGLOBALQA.NET_DOMAIN",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668621677,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "c0351aab-db1b-4c66-a2d8-d1a5dfd40a03",
+        "name": "VALE_AR_DXC_WINDOWS_VALEMCR.ORG",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668621587,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    },
+    {
+        "uuid": "2788e39a-554a-4415-9e0a-5002f483ed4d",
+        "name": "VALE_AR_DXC_CHINA_WINDOWS_WG",
+        "description": "",
+        "category": {
+            "id": "Host",
+            "name": "Host"
+        },
+        "type": {
+            "id": "Windows",
+            "name": "Windows"
+        },
+        "created_date": 1668621457,
+        "created_by": {
+            "id": null,
+            "display_name": null
+        },
+        "last_used_by": {
+            "id": 5397,
+            "display_name": "gbrody@vale.com.br"
+        },
+        "permission": 32,
+        "user_permissions": 32
+    }
+]

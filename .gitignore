@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+env/
+
+# PQC Keys (NUNCA SUBIR CHAVES PRIVADAS!)
+keys/
+*.pem
+*.key
+*.bin
+
+# Logs e databases
+*.log
+*.sqlite3
+
+# OS specific
+.DS_Store
