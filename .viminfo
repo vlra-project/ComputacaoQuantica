@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1763936496,,"wq"
+|2,0,1763938754,,"wq"
 :q
 |2,0,1763301970,,"q"
 :WQ
@@ -69,61 +69,67 @@
 
 # Registers:
 ""1	LINE	0
-	
-|3,1,1,1,1,0,1763936396,""
+	```
+|3,1,1,1,1,0,1763938751,"```"
 "2	LINE	0
-	1. O cliente envia um texto via curl.
-|3,0,2,1,1,0,1761524186,"1. O cliente envia um texto via curl."
-"3	LINE	0
 	
-|3,0,3,1,1,0,1761524186,""
+|3,0,2,1,1,0,1763936396,""
+"3	LINE	0
+	1. O cliente envia um texto via curl.
+|3,0,3,1,1,0,1761524186,"1. O cliente envia um texto via curl."
 "4	LINE	0
-	2. O servidor carrega a política de criptografia.
-|3,0,4,1,1,0,1761524186,"2. O servidor carrega a política de criptografia."
+	
+|3,0,4,1,1,0,1761524186,""
 "5	LINE	0
-	3. O servidor executa os seguintes passos:
-|3,0,5,1,1,0,1761524186,"3. O servidor executa os seguintes passos:"
+	2. O servidor carrega a política de criptografia.
+|3,0,5,1,1,0,1761524186,"2. O servidor carrega a política de criptografia."
 "6	LINE	0
-	4. Gera chaves (com openssl genpkey e pkey -pubout).
-|3,0,6,1,1,0,1761524186,"4. Gera chaves (com openssl genpkey e pkey -pubout)."
+	3. O servidor executa os seguintes passos:
+|3,0,6,1,1,0,1761524186,"3. O servidor executa os seguintes passos:"
 "7	LINE	0
-	5. Encapsula segredo com openssl pkeyutl -kem.
-|3,0,7,1,1,0,1761524186,"5. Encapsula segredo com openssl pkeyutl -kem."
+	4. Gera chaves (com openssl genpkey e pkey -pubout).
+|3,0,7,1,1,0,1761524186,"4. Gera chaves (com openssl genpkey e pkey -pubout)."
 "8	LINE	0
-	6. Deriva chave simétrica (com HKDF ou similar).
-|3,0,8,1,1,0,1761524186,"6. Deriva chave simétrica (com HKDF ou similar)."
+	5. Encapsula segredo com openssl pkeyutl -kem.
+|3,0,8,1,1,0,1761524186,"5. Encapsula segredo com openssl pkeyutl -kem."
 "9	LINE	0
-	7. Cifra a mensagem com openssl enc -aes-256-gcm.
-|3,0,9,1,1,0,1761524186,"7. Cifra a mensagem com openssl enc -aes-256-gcm."
+	6. Deriva chave simétrica (com HKDF ou similar).
+|3,0,9,1,1,0,1761524186,"6. Deriva chave simétrica (com HKDF ou similar)."
 "-	CHAR	0
 	'
 |3,0,36,0,1,0,1761524413,"'"
 
 # File marks:
-'0  69  57  ~/projeto.sh
-|4,48,69,57,1763936496,"~/projeto.sh"
-'1  1  0  ~/projeto.sh
-|4,49,1,0,1763936412,"~/projeto.sh"
-'2  1  0  ~/projeto.sh
-|4,50,1,0,1763936412,"~/projeto.sh"
-'3  197  23  ~/lab/quantum/projeto.py
-|4,51,197,23,1763301970,"~/lab/quantum/projeto.py"
-'4  2  8  ~/lab/quantum/server.py
-|4,52,2,8,1763301928,"~/lab/quantum/server.py"
-'5  2  8  ~/lab/quantum/server.py
-|4,53,2,8,1761524416,"~/lab/quantum/server.py"
-'6  1  8  ~/lab/quantum/server.py
-|4,54,1,8,1761524342,"~/lab/quantum/server.py"
-'7  1  8  ~/lab/quantum/server.py
-|4,55,1,8,1761524342,"~/lab/quantum/server.py"
-'8  1  8  ~/lab/quantum/server.py
-|4,56,1,8,1761524342,"~/lab/quantum/server.py"
-'9  1  8  ~/lab/quantum/server.py
-|4,57,1,8,1761524342,"~/lab/quantum/server.py"
+'0  88  0  ~/projeto.sh
+|4,48,88,0,1763938754,"~/projeto.sh"
+'1  69  57  ~/projeto.sh
+|4,49,69,57,1763936496,"~/projeto.sh"
+'2  69  57  ~/projeto.sh
+|4,50,69,57,1763936496,"~/projeto.sh"
+'3  1  0  ~/projeto.sh
+|4,51,1,0,1763936412,"~/projeto.sh"
+'4  1  0  ~/projeto.sh
+|4,52,1,0,1763936412,"~/projeto.sh"
+'5  1  0  ~/projeto.sh
+|4,53,1,0,1763936412,"~/projeto.sh"
+'6  1  0  ~/projeto.sh
+|4,54,1,0,1763936412,"~/projeto.sh"
+'7  197  23  ~/lab/quantum/projeto.py
+|4,55,197,23,1763301970,"~/lab/quantum/projeto.py"
+'8  2  8  ~/lab/quantum/server.py
+|4,56,2,8,1763301928,"~/lab/quantum/server.py"
+'9  2  8  ~/lab/quantum/server.py
+|4,57,2,8,1761524416,"~/lab/quantum/server.py"
 
 # Jumplist (newest first):
+-'  88  0  ~/projeto.sh
+|4,39,88,0,1763938754,"~/projeto.sh"
+-'  69  57  ~/projeto.sh
+|4,39,69,57,1763938745,"~/projeto.sh"
 -'  69  57  ~/projeto.sh
 |4,39,69,57,1763936496,"~/projeto.sh"
+-'  1  0  ~/projeto.sh
+|4,39,1,0,1763936469,"~/projeto.sh"
 -'  1  0  ~/projeto.sh
 |4,39,1,0,1763936469,"~/projeto.sh"
 -'  1  0  ~/projeto.sh
@@ -132,6 +138,40 @@
 |4,39,89,0,1763936405,"~/projeto.sh"
 -'  89  0  ~/projeto.sh
 |4,39,89,0,1763936405,"~/projeto.sh"
+-'  89  0  ~/projeto.sh
+|4,39,89,0,1763936405,"~/projeto.sh"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
+-'  197  23  ~/lab/quantum/projeto.py
+|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
 -'  197  23  ~/lab/quantum/projeto.py
 |4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
 -'  197  23  ~/lab/quantum/projeto.py
@@ -229,108 +269,68 @@
 -'  2  8  ~/lab/quantum/server.py
 |4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 -'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1761524416,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
--'  1  8  ~/lab/quantum/server.py
-|4,39,1,8,1761524398,"~/lab/quantum/server.py"
+|4,39,2,8,1763301928,"~/lab/quantum/server.py"
 
 # History of marks within files (newest to oldest):
 
 > ~/projeto.sh
-	*	1763936495	0
-	"	69	57
-	.	90	0
+	*	1763938753	0
+	"	88	0
+	.	89	0
 	+	89	3
-	+	90	0
+	+	89	0
 
 > ~/lab/quantum/projeto.py
 	*	1763301968	0

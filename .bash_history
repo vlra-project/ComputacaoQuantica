@@ -1,75 +1,3 @@
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-vim inc.txt 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-clear
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim inc.txt 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-clrear
-clear
-python xxx.py 
-ls
-cagt scans.csv 
-cat scans.csv 
-vim scanner_disponiveis.json
-vim xxx.py 
-clrear
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-source bin/activate
-vim xxx.py 
-source bin/activate
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-ls
 vim cria2.py 
 pyhton xxx.py 
 python xxx.py 
@@ -998,3 +926,75 @@ sudo /usr/bin/crb enable
 sudo dnf update -y
 sudo dnf groupinstall "Development Tools" -y
 sudo dnf install -y cmake gcc-c++ openssl-devel python3-devel git wget ninja-build libtool
+ninja
+cd src-pqc
+ls
+cd liboqs/
+dir
+cd build/
+ninja
+sudo ninja install
+ls /opt/ops
+ls /opt/oqs
+cd ..
+git clone --branch main https://github.com/open-quantum-safe/oqs-provider.git
+cd oqs-provider
+mkdir build && cd build
+cmake -Dliboqs_DIR=/opt/oqs/lib64/cmake/liboqs       -DCMAKE_INSTALL_PREFIX=/opt/oqs-provider       ..
+make
+sudo make install
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/oqs/lib64
+export OPENSSL_MODULES=/opt/oqs-provider/lib64/ossl-modules
+openssl list -providers -provider oqsprovider -provider default
+find /opt -name "oqsprovider.so"
+cd/
+cd /
+find /opt -name "oqsprovider.so"
+ls -F /opt/oqs/lib64/
+cd ~/src-pqc/oqs-provider
+rm -rf build
+mkdir build
+cd build
+cmake -Dliboqs_DIR=/opt/oqs/lib64/cmake/liboqs       -DCMAKE_INSTALL_PREFIX=/opt/oqs-provider       -DCMAKE_BUILD_TYPE=Release       ..
+make
+sudo make install
+ls -R /opt/oqs-provider/
+# 1. Apontando para a matemática (liboqs)
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/oqs/lib64
+# 2. Apontando para o plugin (oqs-provider) - AJUSTE AQUI SE NECESSÁRIO
+export OPENSSL_MODULES=/opt/oqs-provider/lib64/ossl-modules
+# 3. Momento da Verdade
+openssl list -providers -provider oqsprovider -provider default
+ls -R /opt/oqs-provider/
+find ~/src-pqc/oqs-provider/build -name "oqsprovider.so"
+cd..
+cd ..
+cd opt
+pwd
+cd /opt
+cd ..
+mkdir -p /opt/oqs-provider/lib64/ossl-modules
+cp /root/src-pqc/oqs-provider/build/lib/oqsprovider.so /opt/oqs-provider/lib64/ossl-modules/
+ls -l /opt/oqs-provider/lib64/ossl-modules/oqsprovider.so
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/oqs/lib64
+export OPENSSL_MODULES=/opt/oqs-provider/lib64/ossl-modules
+openssl list -providers -provider oqsprovider -provider default
+nano deploy_pq3.sh
+bash deploy_pq3.sh 
+pwd
+cd root
+ls
+cd lab
+dir
+cd ime
+md ime
+mkdir ime
+cd ime
+python3 -m venv crypto
+cd crypto/
+cd bin/
+source activate
+nano requirements.txt
+nano main.py
+pip install -r requirements.txt
+python3 main.py

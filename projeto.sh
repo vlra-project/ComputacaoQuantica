@@ -86,4 +86,3 @@ if [ -n "$repo_url" ]; then
 else
     echo -e "${RED}>>> URL inválida. Processo abortado (mas o commit local foi feito).${NC}"
 fi
-```
