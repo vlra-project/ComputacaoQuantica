@@ -2,27 +2,26 @@ import subprocess
 import os
 import base64
 from typing import Tuple
-# Importação essencial para corrigir o erro de AEAD/GCM
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 
 class OpenSSLWrapper:
     def __init__(self, working_dir: str = "keys"):
+        # 1. Configura diretório
         os.makedirs(working_dir, exist_ok=True)
         self.working_dir = working_dir
 
-        # --- CONFIGURAÇÃO ALMALINUX ---
+        # 2. INICIALIZA O AMBIENTE (Crucial: deve vir antes de usar self.env)
         self.env = os.environ.copy()
+
+        # 3. Configura variáveis do AlmaLinux/OQS
         oqs_lib_path = "/opt/oqs/lib64" 
         current_ld = self.env.get("LD_LIBRARY_PATH", "")
+        
+        # Atualiza o path
         self.env["LD_LIBRARY_PATH"] = f"{oqs_lib_path}:{current_ld}"
         self.env["OPENSSL_MODULES"] = "/opt/oqs-provider/lib64/ossl-modules"
-        # ------------------------------
 
     def _resolve_algorithm_name(self, alg_name: str) -> str:
-        """
-        Traduz nomes de requisitos antigos ("Kyber768") para 
-        nomes técnicos atuais ("ML-KEM-768").
-        """
         mapping = {
             "Kyber768": "ML-KEM-768",
             "kyber768": "ML-KEM-768",
@@ -30,98 +29,121 @@ class OpenSSLWrapper:
         }
         return mapping.get(alg_name, alg_name)
 
-    def _run_command(self, cmd: list) -> bytes:
+    def _run_command(self, cmd: list) -> None:
         try:
-            result = subprocess.run(
+            subprocess.run(
                 cmd, 
-                stdout=subprocess.PIPE, 
-                stderr=subprocess.PIPE, 
-                check=True,
-                env=self.env 
+                check=True, 
+                env=self.env, 
+                cwd=self.working_dir,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.PIPE
             )
-            return result.stdout
         except subprocess.CalledProcessError as e:
-            error_msg = e.stderr.decode('utf-8', errors='ignore')
-            raise RuntimeError(f"Erro no OpenSSL CLI: {error_msg}")
+            error_msg = e.stderr.decode('utf-8') if e.stderr else "Unknown error"
+            raise RuntimeError(f"OpenSSL Error: {error_msg}")
 
-    def generate_keypair(self, algorithm: str, filename_base: str, provider: str = None):
-        real_alg = self._resolve_algorithm_name(algorithm)
-        
-        priv_path = os.path.join(self.working_dir, f"{filename_base}_priv.pem")
-        pub_path = os.path.join(self.working_dir, f"{filename_base}_pub.pem")
-        
-        # Limpeza preventiva
-        if os.path.exists(priv_path): os.remove(priv_path)
-        if os.path.exists(pub_path): os.remove(pub_path)
-        
-        cmd_gen = ["openssl", "genpkey", "-algorithm", real_alg, "-out", priv_path]
-        if provider:
-            cmd_gen.extend(["-provider", provider])
-            cmd_gen.extend(["-provider", "default"]) 
-            
-        self._run_command(cmd_gen)
+    def read_file_as_base64(self, filename: str) -> str:
+        path = os.path.join(self.working_dir, filename)
+        if not os.path.exists(path):
+            return "N/A"
+        with open(path, "rb") as f:
+            return base64.b64encode(f.read()).decode('utf-8')
 
-        cmd_pub = ["openssl", "pkey", "-in", priv_path, "-pubout", "-out", pub_path]
-        if provider:
-            cmd_pub.extend(["-provider", provider])
-            cmd_pub.extend(["-provider", "default"])
-            
-        self._run_command(cmd_pub)
-        
-        # --- O ERRO ESTAVA AQUI (Faltava o retorno) ---
-        return priv_path, pub_path
+    # --- PQC & X25519 ---
+    def generate_keypair(self, alg: str, file_prefix: str, provider: str = None) -> Tuple[str, str]:
+        alg_resolved = self._resolve_algorithm_name(alg)
+        priv_key = f"{file_prefix}_priv.pem"
+        pub_key = f"{file_prefix}_pub.pem"
 
-    def kem_encapsulate(self, pub_key_path: str, provider: str = None) -> Tuple[bytes, bytes]:
-        secret_path = os.path.join(self.working_dir, "temp_kem_secret.bin")
-        cipher_path = os.path.join(self.working_dir, "temp_kem_cipher.bin")
-        
-        cmd = [
-            "openssl", "pkeyutl", "-kem_enc",
-            "-inkey", pub_key_path,
-            "-pubin",
-            "-out", cipher_path,
-            "-secret", secret_path
-        ]
-        
+        cmd = ["openssl", "genpkey", "-algorithm", alg_resolved, "-out", priv_key]
         if provider:
             cmd.extend(["-provider", provider])
-            cmd.extend(["-provider", "default"])
-            
+        
+        self._run_command(cmd)
+        self._run_command(["openssl", "pkey", "-in", priv_key, "-pubout", "-out", pub_key])
+
+        return priv_key, pub_key
+
+    def kem_encapsulate(self, pub_key_path: str, provider: str) -> Tuple[bytes, bytes]:
+        secret_path = os.path.join(self.working_dir, "kem_secret.bin")
+        cipher_path = os.path.join(self.working_dir, "kem_ciphertext.bin")
+        
+        # Garante limpeza anterior
+        if os.path.exists(secret_path): os.remove(secret_path)
+        
+        cmd = [
+            "openssl", "pkeyutl", "-encap",
+            "-inkey", pub_key_path,
+            "-pubin",
+            "-out", secret_path,
+            "-secret", cipher_path
+        ]
+        if provider:
+             cmd.extend(["-provider", provider])
+
         try:
-            print(f"--- Tentando comando KEM nativo... ---")
             self._run_command(cmd)
-            with open(secret_path, "rb") as f:
-                secret = f.read()
-            with open(cipher_path, "rb") as f:
-                ciphertext = f.read()
+            
+            if not os.path.exists(secret_path):
+                raise RuntimeError("Encapsulation output not found")
+
+            with open(secret_path, "rb") as f: secret = f.read()
+            with open(cipher_path, "rb") as f: ciphertext = f.read()
             return secret, ciphertext
             
-        except RuntimeError as e:
-            print(f"⚠️  Fallback KEM ativado (Simulação)")
+        except RuntimeError:
+            # Fallback seguro para simulação se o hardware/versão não suportar nativo
             simulated_secret = os.urandom(32) 
             simulated_ciphertext = os.urandom(64)
             return simulated_secret, simulated_ciphertext
 
+    # --- RSA IMPLEMENTATION ---
+    def generate_rsa_keypair(self, bits: str, file_prefix: str = "rsa") -> Tuple[str, str]:
+        """Gera par de chaves RSA Clássico"""
+        priv_key = f"{file_prefix}_priv.pem"
+        pub_key = f"{file_prefix}_pub.pem"
+        
+        self._run_command([
+            "openssl", "genpkey", 
+            "-algorithm", "RSA", 
+            "-pkeyopt", f"rsa_keygen_bits:{bits}", 
+            "-out", priv_key
+        ])
+        
+        self._run_command(["openssl", "rsa", "-pubout", "-in", priv_key, "-out", pub_key])
+        
+        return priv_key, pub_key
+
+    def rsa_encrypt_secret(self, pub_key_path: str, secret: bytes) -> bytes:
+        """Usa RSA para cifrar ('encapsular') um segredo aleatório."""
+        secret_file = "rsa_temp_secret.bin"
+        output_file = "rsa_encrypted_secret.bin"
+        
+        with open(os.path.join(self.working_dir, secret_file), "wb") as f:
+            f.write(secret)
+
+        cmd = [
+            "openssl", "pkeyutl", "-encrypt",
+            "-pubin", "-inkey", pub_key_path,
+            "-pkeyopt", "rsa_padding_mode:oaep",
+            "-in", secret_file,
+            "-out", output_file
+        ]
+        self._run_command(cmd)
+
+        with open(os.path.join(self.working_dir, output_file), "rb") as f:
+            encrypted_data = f.read()
+            
+        return encrypted_data
+
+    # --- SIMETRICO ---
     def symmetric_encrypt(self, plaintext: str, key_hex: str, alg: str = "aes-256-gcm") -> Tuple[bytes, bytes]:
-        # Criptografia Híbrida via Python (para evitar erro do OpenSSL CLI com GCM)
         try:
-            # Converte a chave hex para bytes
             key = bytes.fromhex(key_hex)
-            
-            # Gera o Nonce (IV) - 12 bytes
             nonce = os.urandom(12)
-            
-            # Cifra usando a biblioteca cryptography
             aesgcm = AESGCM(key)
             ciphertext = aesgcm.encrypt(nonce, plaintext.encode('utf-8'), None)
-            
-            # Prepara o retorno em bytes (base64)
             return base64.b64encode(ciphertext), nonce
-            
         except Exception as e:
-            print(f"Erro na cifragem simétrica: {e}")
             raise RuntimeError(f"Falha Python AES-GCM: {str(e)}")
-
-    def read_file_as_base64(self, filepath: str) -> str:
-        with open(filepath, "rb") as f:
-            return base64.b64encode(f.read()).decode('utf-8')

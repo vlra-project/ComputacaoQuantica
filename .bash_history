@@ -1,380 +1,3 @@
-vim cria2.py 
-pyhton xxx.py 
-python xxx.py 
-vim cria.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-source bin/activate
-cd lab
-cd azurite
-source bin/activate
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-cat scanners_disponiveis.json | grep IT_BRAZIL_NEW
-vim scanners_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-cp xxx.py copy_xxx.py
-vim xxx.py 
-vim copy_xxx.py 
-vim xxx.py 
-vim test_credencial.py
-vim xxx.py 
-vim test_credencial.py
-python test_credencial.py 
-ls
-vim scanner.py 
-vim test_credencial.py
-python test_credencial.py 
-vim test_credencial.py
-python test_credencial.py 
-ls
-vim credenciais_disponiveis.json 
-cat credenciais_disponiveis.json| grep valenet
-cat credenciais_disponiveis.json| grep windows
-cat credenciais_disponiveis.json| grep Valenet
-vim xxx.py 
-vim copy_xxx.py 
-clear
-vim copy_xxx.py pyvenv.cfg 
-vim copy_xxx.py 
-cat credenciais_disponiveis.json| grep Valenet
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-ca azurite
-cd azurite
-source bin/activate
-ls
-vim xxx.py 
-python xxx.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-exit
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-cd lab
-cd azurit
-cd ..
-cd azurite
-ls
-source bin/activate
-cat test_credencial.py 
-vim test2_credencial.py
-pythontest2_credencial.py
-python test2_credencial.py
-vim test2_credencial.py
-python test2_credencial.py
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-vim test2_credencial.py
-ls
-vim test_credencial.py 
-python test_credencial.py 
-vim test_credencial.py 
-python test_credencial.py 
-vim test_credencial.py 
-python test_credencial.py 
-vim test_credencial.py 
-python test_credencial.py 
-vim test_credencial.py 
-cat test_credencial.py
-vim test_credencial.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-[
-vim xxx.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab/
-cd azurite
-source bin/activate
-ls
-vim xxx.py 
-vim credenciais_disponiveis.json 
-vim xxx.py 
-vim credenciais_disponiveis.json 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-cd lab
-cd azurite
-source bin/activate
-python xxx.py 
-ls
-vim test_credencial.py
-python test_credencial.py
-vim test_credencial.py
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-ls
-python test_credencial.py 
-vim test_credencial.py 
-python test_credencial.py 
-ls
-vim credenciais_disponiveis2.json
-vim test_credencial.py 
-python test_credencial.py 
-vim credenciais_disponiveis2.json
-vim test_credencial.py 
-python test_credencial.py 
-vim credenciais_disponiveis2.json
-rm credenciais_disponiveis2.json 
-python test_credencial.py 
-ls
-vim test_credencial.py 
-python test_credencial.py 
-vim credenciais_disponiveis2.json
-vim test_credencial.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-ls
-vim xxx.py 
-cat credenciais_disponiveis.json
-cat credenciais_disponiveis.json | grep Valenet
-vim credenciais_disponiveis.json
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-ls
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-cat credenciais_disponiveis.json
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-cat credenciais_disponiveis.json | grep 731a8e52-3ea6-a291-ec0a-d2ff0619c19d7bd788d6be818b65
-cat credenciais_disponiveis.json | grep 54826839-0066-4c33-9a04-e6c90945bf4c
-cat credenciais_disponiveis.json | grep 662bb281-ecdb-401c-af4a-09266410e06d
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-cd lab
-cd azurite
-source bin/activate
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-python xxx.py 
-vim xxx.py 
-ls
-cd lab
-ls
-cd azurit
-ls
-source bin/activate
-ls
-cd..
-cd ..
-ls
-cd ..
-dir
-cd ..
-dir
-ls
-cd lab
-ls
-cd ~
-ls
-cd lab
-ls
-cd azurite
-ls
-desactivate
-cd bin
-deactivate 
-source activate
-ls
-cd ..
-ls
-ls -lt
-nano xxx.py
-vim xxx.py
-cp xxx.py plx.py
-vim plx.py
-pytthon plx.py 
-python plx.py 
-vim plx.py
-python plx.py 
-vim plx.py
-python plx.py 
-vim plx.py
-python plx.py 
-vim plx.py
-python plx.py 
-vim plx.py
-python plx.py 
-vim plx.py
-vim plx_credential_list.py
-vim plx.py
-vim plx_credential_list.py
-python plx_credential_list.py 
-vim plx_credential_list.py
-python plx_credential_list.py 
-vim plx_credential_list.py
-python plx_credential_list.py 
-vim plx_credential_list.py
-ls
-cd lab
-dir
-cd azurite
-source bin/activate
-pwd
-ls
-python plx_credential_list.py 
-cp plx_credential_list.py plx_List_det_cred.py
-vim plx_List_det_cred.py 
-python plx_List_det_cred.py 
-cd lab
-cd azurite
-dir
-source bin/activate
-dir
-cd..
-cd ..
-dir
-cd azurite
-ls
-vim plx_List_det_cred.py 
-cp plx_List_det_cred.py plx_Cred.py
-vim plx_Cred.py 
 python plx_Cred.py 
 ls
 python plx.py
@@ -998,3 +621,380 @@ nano requirements.txt
 nano main.py
 pip install -r requirements.txt
 python3 main.py
+cd lab
+cd ime/
+cd crypto/
+source bin/activate
+ls
+nano crypto/openssl_utils.py 
+python3 main.py
+nano crypto/openssl_utils.py 
+python3 main.py
+cat <<EOF > crypto/openssl_utils.py
+import subprocess
+import os
+import base64
+from typing import Tuple
+# Importação essencial para corrigir o erro de AEAD/GCM
+from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+
+class OpenSSLWrapper:
+    def __init__(self, working_dir: str = "keys"):
+        os.makedirs(working_dir, exist_ok=True)
+        self.working_dir = working_dir
+
+        # --- CONFIGURAÇÃO ALMALINUX ---
+        self.env = os.environ.copy()
+        oqs_lib_path = "/opt/oqs/lib64" 
+        current_ld = self.env.get("LD_LIBRARY_PATH", "")
+        self.env["LD_LIBRARY_PATH"] = f"{oqs_lib_path}:{current_ld}"
+        self.env["OPENSSL_MODULES"] = "/opt/oqs-provider/lib64/ossl-modules"
+        # ------------------------------
+
+    def _resolve_algorithm_name(self, alg_name: str) -> str:
+        """
+        Traduz nomes de requisitos antigos ("Kyber768") para 
+        nomes técnicos atuais ("ML-KEM-768").
+        """
+        mapping = {
+            "Kyber768": "ML-KEM-768",
+            "kyber768": "ML-KEM-768",
+            "AES-256-GCM": "aes-256-gcm"
+        }
+        return mapping.get(alg_name, alg_name)
+
+    def _run_command(self, cmd: list) -> bytes:
+        try:
+            result = subprocess.run(
+                cmd, 
+                stdout=subprocess.PIPE, 
+                stderr=subprocess.PIPE, 
+                check=True,
+                env=self.env 
+            )
+            return result.stdout
+        except subprocess.CalledProcessError as e:
+            error_msg = e.stderr.decode('utf-8', errors='ignore')
+            raise RuntimeError(f"Erro no OpenSSL CLI: {error_msg}")
+
+    def generate_keypair(self, algorithm: str, filename_base: str, provider: str = None):
+        real_alg = self._resolve_algorithm_name(algorithm)
+        
+        priv_path = os.path.join(self.working_dir, f"{filename_base}_priv.pem")
+        pub_path = os.path.join(self.working_dir, f"{filename_base}_pub.pem")
+        
+        # Limpeza preventiva
+        if os.path.exists(priv_path): os.remove(priv_path)
+        if os.path.exists(pub_path): os.remove(pub_path)
+        
+        cmd_gen = ["openssl", "genpkey", "-algorithm", real_alg, "-out", priv_path]
+        if provider:
+            cmd_gen.extend(["-provider", provider])
+            cmd_gen.extend(["-provider", "default"]) 
+            
+        self._run_command(cmd_gen)
+
+        cmd_pub = ["openssl", "pkey", "-in", priv_path, "-pubout", "-out", pub_path]
+        if provider:
+            cmd_pub.extend(["-provider", provider])
+            cmd_pub.extend(["-provider", "default"])
+            
+        self._run_command(cmd_pub)
+        
+        # --- O ERRO ESTAVA AQUI (Faltava o retorno) ---
+        return priv_path, pub_path
+
+    def kem_encapsulate(self, pub_key_path: str, provider: str = None) -> Tuple[bytes, bytes]:
+        secret_path = os.path.join(self.working_dir, "temp_kem_secret.bin")
+        cipher_path = os.path.join(self.working_dir, "temp_kem_cipher.bin")
+        
+        cmd = [
+            "openssl", "pkeyutl", "-kem_enc",
+            "-inkey", pub_key_path,
+            "-pubin",
+            "-out", cipher_path,
+            "-secret", secret_path
+        ]
+        
+        if provider:
+            cmd.extend(["-provider", provider])
+            cmd.extend(["-provider", "default"])
+            
+        try:
+            print(f"--- Tentando comando KEM nativo... ---")
+            self._run_command(cmd)
+            with open(secret_path, "rb") as f:
+                secret = f.read()
+            with open(cipher_path, "rb") as f:
+                ciphertext = f.read()
+            return secret, ciphertext
+            
+        except RuntimeError as e:
+            print(f"⚠️  Fallback KEM ativado (Simulação)")
+            simulated_secret = os.urandom(32) 
+            simulated_ciphertext = os.urandom(64)
+            return simulated_secret, simulated_ciphertext
+
+    def symmetric_encrypt(self, plaintext: str, key_hex: str, alg: str = "aes-256-gcm") -> Tuple[bytes, bytes]:
+        # Criptografia Híbrida via Python (para evitar erro do OpenSSL CLI com GCM)
+        try:
+            # Converte a chave hex para bytes
+            key = bytes.fromhex(key_hex)
+            
+            # Gera o Nonce (IV) - 12 bytes
+            nonce = os.urandom(12)
+            
+            # Cifra usando a biblioteca cryptography
+            aesgcm = AESGCM(key)
+            ciphertext = aesgcm.encrypt(nonce, plaintext.encode('utf-8'), None)
+            
+            # Prepara o retorno em bytes (base64)
+            return base64.b64encode(ciphertext), nonce
+            
+        except Exception as e:
+            print(f"Erro na cifragem simétrica: {e}")
+            raise RuntimeError(f"Falha Python AES-GCM: {str(e)}")
+
+    def read_file_as_base64(self, filepath: str) -> str:
+        with open(filepath, "rb") as f:
+            return base64.b64encode(f.read()).decode('utf-8')
+EOF
+
+python3 main.py
+curl -X POST http://65.181.112.112:3030/encrypt -H "Content-Type: application/json" -d '{"data": "mensagem confidencial"}'
+curl -X POST http://localhost:3030/encrypt -H "Content-Type: application/json" -d '{"data": "mensagem confidencial"}'
+curl -X POST http://127.0.0.1:3030/encrypt -H "Content-Type: application/json" -d '{"data": "mensagem confidencial"}'
+python3 main.py
+ls
+cd lab
+ls
+cd ime
+ls
+cd crypto/
+source bin/activate
+python main.py 
+cd lab
+cd ime
+cd crypto/
+source bin/activate
+ls
+python main.py 
+cd lab
+cd ime
+cd crypto/
+source bin/activate
+python main.py 
+git
+vim projeto.sh
+chmod +x projeto.sh 
+vim projeto.sh
+./projeto.sh 
+ls
+./projeto.sh 
+vim projeto.sh 
+./projeto.sh 
+cd lab/
+ls
+cd ime/
+ls
+ls crypto/
+source bin/activate
+cd bin
+ls
+cd crypto/
+ls
+source bin/activate
+ls
+cat requirements.txt 
+ls
+cat setup_here.sh 
+ls
+cat main.py 
+ls
+cd lab
+ls
+cd ime
+ls
+cd crypto/
+çs
+ls
+ls policy/
+vim policy/policy_pqc.json 
+vim main.py 
+cd lab
+ls
+cd ime
+ls
+cd crypto/
+ls
+source bin/activate
+ls
+cat main
+vim main.py 
+cd lab/
+cd ime/
+ls
+cd crypto/
+ls
+source bin/activate
+ls
+cat pyvenv.cfg 
+cat requirements.txt 
+cat setup_here.sh 
+ls
+vim setup_here.sh 
+ls
+cd crypto/
+ls
+cat encryptor.py 
+ls
+vim encryptor.py 
+ls
+cd ..
+ls
+vim setup_here.sh 
+ls crypto/
+cat  __init__.py
+ls
+cd crypto/
+ls
+cat  __init__.py
+cat encryptor.py
+vim encryptor.py
+cat encryptor.py
+cd lab
+ls
+cd ime
+ls
+cd crypto/
+ls
+source bin/activate
+./main.p
+./main.py
+ls
+sudo su -
+cd lab/
+ls
+cd ime/
+ls
+cd crypto/
+ls
+source bin/activate
+ls
+./main.py
+python main.py
+ls
+cd crypto/
+ls
+vim encryptor.py 
+vim openssl_utils.py
+cd lab
+ls
+cd grover
+cd ..
+cd ime
+ls
+cd crypto/
+ls
+source bin/activate
+ls
+python main.py
+cd lab
+cd ime
+ls
+cd crypto
+ls
+source bin/activate
+ls
+cd policy/
+ls
+cat policy_pqc.json 
+cd lab
+dir
+cd ime
+ls
+cd crypto/
+dir
+nano setup_here.sh 
+ls
+cd crypto/
+ls
+nano encryptor.py 
+cd ..
+dir
+pwd
+cd ..
+dir
+ls
+cd ..
+ls
+cd ime
+ls
+cd cryp
+cd crypto/
+ls
+nano main.py 
+nano setup_here.sh 
+exit
+cd lab
+ls
+cd ime
+ls
+cd cry
+cd crypto/
+ls
+cd policy/
+ls
+nano policy_pqc.json 
+xs ..
+cd ..
+ls
+cd crypto/
+ls
+nano openssl_utils.py 
+nano encryptor.py 
+cd .
+cd ..
+ls
+nano main.py 
+source /bin/script/
+cd /bin
+cd script
+ls
+cd ..
+pwd
+cd lab
+cd /
+cd ~
+ls
+cd lab
+ls
+cd ime
+dir
+cd crypto/
+ls
+cd bin
+ls
+source activate
+cd ..
+python main.py 
+nano main.py 
+python main.py 
+nano main.py 
+python main.py 
+ls
+cd crypto/
+ls
+nano openssl_utils.py 
+ls
+cd ..
+python main.py 
+ls
+cd crypto/
+ls
+nano encryptor.py 
+ls
+cd ..
+ls
+nano main.py 
+python main.py 

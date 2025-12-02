@@ -15,9 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1763938754,,"wq"
+|2,0,1763947834,,"wq"
 :q
-|2,0,1763301970,,"q"
+|2,0,1763943484,,"q"
 :WQ
 |2,0,1761524339,,"WQ"
 :q!
@@ -69,14 +69,14 @@
 
 # Registers:
 ""1	LINE	0
-	```
-|3,1,1,1,1,0,1763938751,"```"
+	        # --- O ERRO ESTAVA AQUI (Faltava o retorno) ---
+|3,1,1,1,1,0,1763947816,"        # --- O ERRO ESTAVA AQUI (Faltava o retorno) ---"
 "2	LINE	0
-	
-|3,0,2,1,1,0,1763936396,""
+	```
+|3,0,2,1,1,0,1763938751,"```"
 "3	LINE	0
-	1. O cliente envia um texto via curl.
-|3,0,3,1,1,0,1761524186,"1. O cliente envia um texto via curl."
+	
+|3,0,3,1,1,0,1763936396,""
 "4	LINE	0
 	
 |3,0,4,1,1,0,1761524186,""
@@ -100,230 +100,252 @@
 |3,0,36,0,1,0,1761524413,"'"
 
 # File marks:
-'0  88  0  ~/projeto.sh
-|4,48,88,0,1763938754,"~/projeto.sh"
-'1  69  57  ~/projeto.sh
-|4,49,69,57,1763936496,"~/projeto.sh"
-'2  69  57  ~/projeto.sh
-|4,50,69,57,1763936496,"~/projeto.sh"
-'3  1  0  ~/projeto.sh
-|4,51,1,0,1763936412,"~/projeto.sh"
-'4  1  0  ~/projeto.sh
-|4,52,1,0,1763936412,"~/projeto.sh"
-'5  1  0  ~/projeto.sh
-|4,53,1,0,1763936412,"~/projeto.sh"
-'6  1  0  ~/projeto.sh
-|4,54,1,0,1763936412,"~/projeto.sh"
-'7  197  23  ~/lab/quantum/projeto.py
-|4,55,197,23,1763301970,"~/lab/quantum/projeto.py"
-'8  2  8  ~/lab/quantum/server.py
-|4,56,2,8,1763301928,"~/lab/quantum/server.py"
-'9  2  8  ~/lab/quantum/server.py
-|4,57,2,8,1761524416,"~/lab/quantum/server.py"
+'0  1  0  ~/lab/ime/crypto/main.py
+|4,48,1,0,1763949954,"~/lab/ime/crypto/main.py"
+'1  126  8  ~/lab/ime/crypto/crypto/openssl_utils.py
+|4,49,126,8,1763947834,"~/lab/ime/crypto/crypto/openssl_utils.py"
+'2  59  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,50,59,0,1763947757,"~/lab/ime/crypto/crypto/encryptor.py"
+'3  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,51,24,0,1763943484,"~/lab/ime/crypto/crypto/encryptor.py"
+'4  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,52,24,0,1763943484,"~/lab/ime/crypto/crypto/encryptor.py"
+'5  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,53,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+'6  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,54,24,0,1763943152,"~/lab/ime/crypto/crypto/encryptor.py"
+'7  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,55,24,0,1763943152,"~/lab/ime/crypto/crypto/encryptor.py"
+'8  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,56,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+'9  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,57,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
 
 # Jumplist (newest first):
--'  88  0  ~/projeto.sh
-|4,39,88,0,1763938754,"~/projeto.sh"
--'  69  57  ~/projeto.sh
-|4,39,69,57,1763938745,"~/projeto.sh"
--'  69  57  ~/projeto.sh
-|4,39,69,57,1763936496,"~/projeto.sh"
--'  1  0  ~/projeto.sh
-|4,39,1,0,1763936469,"~/projeto.sh"
--'  1  0  ~/projeto.sh
-|4,39,1,0,1763936469,"~/projeto.sh"
--'  1  0  ~/projeto.sh
-|4,39,1,0,1763936412,"~/projeto.sh"
--'  89  0  ~/projeto.sh
-|4,39,89,0,1763936405,"~/projeto.sh"
--'  89  0  ~/projeto.sh
-|4,39,89,0,1763936405,"~/projeto.sh"
--'  89  0  ~/projeto.sh
-|4,39,89,0,1763936405,"~/projeto.sh"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  197  23  ~/lab/quantum/projeto.py
-|4,39,197,23,1763301970,"~/lab/quantum/projeto.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
--'  2  8  ~/lab/quantum/server.py
-|4,39,2,8,1763301928,"~/lab/quantum/server.py"
+-'  1  0  ~/lab/ime/crypto/main.py
+|4,39,1,0,1763949954,"~/lab/ime/crypto/main.py"
+-'  126  8  ~/lab/ime/crypto/crypto/openssl_utils.py
+|4,39,126,8,1763947834,"~/lab/ime/crypto/crypto/openssl_utils.py"
+-'  1  0  ~/lab/ime/crypto/crypto/openssl_utils.py
+|4,39,1,0,1763947766,"~/lab/ime/crypto/crypto/openssl_utils.py"
+-'  59  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,59,0,1763947757,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  59  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,59,0,1763947757,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763947560,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763947560,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763943484,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763943484,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  70  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,70,0,1763943230,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763943213,"~/lab/ime/crypto/setup_here.sh"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763943152,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763943152,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763943152,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  24  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,24,0,1763943152,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  1  0  ~/lab/ime/crypto/crypto/encryptor.py
+|4,39,1,0,1763943039,"~/lab/ime/crypto/crypto/encryptor.py"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  35  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,35,0,1763942993,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942975,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  106  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,106,0,1763942955,"~/lab/ime/crypto/setup_here.sh"
+-'  1  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,1,0,1763942882,"~/lab/ime/crypto/setup_here.sh"
+-'  1  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,1,0,1763942882,"~/lab/ime/crypto/setup_here.sh"
+-'  1  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,1,0,1763942882,"~/lab/ime/crypto/setup_here.sh"
+-'  1  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,1,0,1763942882,"~/lab/ime/crypto/setup_here.sh"
+-'  1  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,1,0,1763942882,"~/lab/ime/crypto/setup_here.sh"
+-'  1  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,1,0,1763942882,"~/lab/ime/crypto/setup_here.sh"
+-'  1  0  ~/lab/ime/crypto/setup_here.sh
+|4,39,1,0,1763942882,"~/lab/ime/crypto/setup_here.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/lab/ime/crypto/crypto/openssl_utils.py
+	*	1763947833	0
+	"	126	8
+	.	71	0
+	+	71	0
+
+> ~/lab/ime/crypto/crypto/encryptor.py
+	*	1763947756	0
+	"	59	0
+
+> ~/lab/ime/crypto/setup_here.sh
+	*	1763943229	0
+	"	70	0
+
+> ~/lab/ime/crypto/main.py
+	*	1763942017	0
+	"	1	0
+
+> ~/lab/ime/crypto/policy/policy_pqc.json
+	*	1763940619	0
+	"	1	0
 
 > ~/projeto.sh
 	*	1763938753	0
@@ -582,117 +604,3 @@
 > ~/lab/azurite/credenciais_disponiveis.json
 	*	1751378042	0
 	"	4829	16
-
-> ~/lab/azurite/test2_credencial.py
-	*	1751312051	0
-	"	9	0
-	^	24	0
-	.	9	0
-	+	10	14
-	+	10	0
-	+	8	0
-	+	7	78
-	+	8	0
-	+	10	24
-	+	10	66
-	+	10	0
-	+	10	40
-	+	10	79
-	+	10	40
-	+	10	79
-	+	10	42
-	+	21	15
-	+	10	39
-	+	9	52
-	+	23	53
-	+	9	0
-
-> ~/lab/azurite/plx_credential_list.py
-	*	1751309959	0
-	"	1	0
-	^	65	0
-	.	64	39
-	+	8	58
-	+	7	79
-	+	6	17
-	+	7	17
-	+	8	0
-	+	68	69
-	+	9	0
-	+	32	8
-	+	2	10
-	+	32	31
-	+	36	0
-	+	34	33
-	+	33	18
-	+	35	21
-	+	34	78
-	+	35	35
-	+	64	39
-
-> ~/lab/azurite/test_credencial.py
-	*	1751309859	0
-	"	28	0
-	^	28	0
-	.	27	39
-	+	1	0
-	+	1	39
-	+	1	0
-	+	1	9
-	+	10	39
-	+	12	38
-	+	40	38
-	+	12	31
-	+	40	38
-	+	12	28
-	+	37	0
-	+	38	0
-	+	39	0
-	+	40	0
-	+	12	0
-	+	12	61
-	+	12	25
-	+	35	30
-	+	17	43
-	+	37	0
-	+	38	0
-	+	40	0
-	+	17	42
-	+	32	37
-	+	16	27
-	+	24	42
-	+	19	19
-	+	12	0
-	+	30	37
-	+	35	0
-	+	37	0
-	+	38	0
-	+	40	0
-	+	37	0
-	+	35	0
-	+	27	39
-
-> ~/lab/azurite/plx_List_det_cred.py
-	*	1750959083	0
-	"	8	0
-	^	2	11
-	.	8	0
-	+	8	59
-	+	8	0
-	+	68	59
-	+	8	0
-	+	9	0
-	+	2	10
-	+	8	0
-
-> ~/lab/azurite/plx_Cred.py
-	*	1750959041	0
-	"	1	0
-	^	71	60
-	.	9	0
-	+	7	0
-	+	7	49
-	+	7	0
-	+	9	0
-	+	71	59
-	+	9	0
